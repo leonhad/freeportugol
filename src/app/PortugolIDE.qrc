@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/" lang="Português" >
+        <file>images/printer.png</file>
+        <file>images/PortugolIDE.png</file>
+        <file>images/file.png</file>
+        <file>images/disk.png</file>
+        <file>images/disk_multiple.png</file>
+        <file>images/door_in.png</file>
+        <file>images/application_side_tree.png</file>
+        <file>images/application_tile_horizontal.png</file>
+        <file>images/application_tile_vertical.png</file>
+        <file>images/bug.png</file>
+        <file>images/cog.png</file>
+        <file>images/cut.png</file>
+        <file>images/resultset_next.png</file>
+        <file>images/style.png</file>
+        <file>images/tag_blue.png</file>
+        <file>images/tag_blue_add.png</file>
+        <file>images/tag_blue_delete.png</file>
+        <file>images/tick.png</file>
+        <file>images/wand.png</file>
+        <file>images/zoom.png</file>
+        <file>images/Folder.png</file>
+        <file>images/page_copy.png</file>
+        <file>images/page_paste.png</file>
+        <file>images/redo.png</file>
+        <file>images/undo.png</file>
+        <file>images/help.png</file>
+        <file>images/application_cascade.png</file>
+        <file>images/options.png</file>
+        <file>images/step_over.png</file>
+        <file>images/step_in.png</file>
+        <file>images/step_out.png</file>
+        <file>images/stop.png</file>
+        <file>images/close_window.png</file>
+        <file>images/close_all_windows.png</file>
+    </qresource>
+</RCC>
